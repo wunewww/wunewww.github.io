@@ -1,0 +1,4 @@
+baseURL = 'https://wuniu.one'
+languageCode = 'en-us'
+title = 'wuniu Blog'
+theme = 'ananke'
