@@ -2,7 +2,6 @@ baseURL="https://www.wuniu.one"
 languageCode = 'en-us'
 title = 'wuniu Blog'
 theme = 'ananke'
-copyright="CC BY"
 enableRobotsTXT=true
 hasCJKLanguage=true
 timeZone="Asia/Shanghai"
