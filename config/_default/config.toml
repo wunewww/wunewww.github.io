@@ -4,7 +4,7 @@
 theme = "congo"
 
 baseURL = "https://uniu.net.cn/"
-defaultContentLanguage = "zh"
+defaultContentLanguage = "zh-Hans"
 
 enableRobotsTXT = true
 summaryLength = 0

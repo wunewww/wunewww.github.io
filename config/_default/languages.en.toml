@@ -1,22 +1,23 @@
-languageCode = "zh"
-languageName = "Chinese"
+languageCode = "en"
+languageName = "English"
 languageDirection = "ltr"
 weight = 1
+copyright = '<p id="cc-license" xmlns:cc="http://creativecommons.org/ns#">This work © 2024 by <span property="cc:attributionName">WUNIU</span> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">CC BY-SA 4.0<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>'
 
-title = "悠猊记事簿"
+title = "Uni's Notitia"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
-  dateFormat = "2000年05月10日"
+  dateFormat = "30/05/2000"
 
   # mainSections = ["section1", "section2"]
   # description = "My awesome website"
 
 [params.author]
-  name = "伏虎"
-  image = "img/avatar.png"
-  headline = "稳重，安宁，好学。"
-  bio = "热爱一切新知识的法学生。"
+  name = "WUNIU"
+  image = "img/avatar.jpg"
+  headline = "Be Steady, Patient, and Studious."
+  bio = "Who loves everything novel."
   links = [
     { email = "mailto:wuniu@riseup.net" },
   #   { link = "https://link-to-some-website.com/" },
