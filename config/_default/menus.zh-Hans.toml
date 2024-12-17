@@ -11,17 +11,17 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
+  name = "故事"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Categories"
+  name = "分类"
   pageRef = "categories"
   weight = 20
 
 [[main]]
-  name = "Tags"
+  name = "标签"
   pageRef = "tags"
   weight = 30
 
