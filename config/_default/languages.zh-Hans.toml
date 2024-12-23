@@ -8,7 +8,7 @@ title = "悠猊记事簿"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
-  dateFormat = "2000年05月10日"
+  dateFormat = "2006年1月2日"
 
   # mainSections = ["section1", "section2"]
   # description = "My awesome website"
