@@ -2,7 +2,7 @@ languageCode = "zh-Hans"
 languageName = "简体中文"
 languageDirection = "ltr"
 weight = 1
-copyright='<p id="cc-license" xmlns:cc="http://creativecommons.org/ns#">本作品<span property="cc:attributionName">© 2024 粘土人 </span>著作权适用 <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">CC BY-SA 4.0<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a>协议。</p>'
+copyright='<p id="cc-license" xmlns:cc="http://creativecommons.org/ns#">本作品<span property="cc:attributionName">© 2025 粘土人 </span>著作权适用 <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">CC BY-SA 4.0<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a>协议。</p>'
 
 title = "悠猊记事簿"
 # copyright = "Copy, _right?_ :thinking_face:"
