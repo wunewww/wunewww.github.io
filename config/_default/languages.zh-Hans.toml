@@ -20,6 +20,8 @@ title = "悠猊记事簿"
   bio = "热爱一切新知识的法学生。"
   links = [
     { email = "mailto:uniu_admin@icloud.com" },
+    { steam = "https://steamcommunity.com/id/Keiki_s_Golem"},
+    { littleredbook = "https://www.xiaohongshu.com/user/profile/5fe2dd3e000000000100bd30?xsec_token=YBZMZ3iJxO31YmCYxMaK6DqoYDxX6i7387A0K8XwMRSgM%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=5fe2dd3e000000000100bd30&apptime=1746367579&share_id=016659d372f049d5807e2057598c5f8d&share_channel=copy_link" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -54,7 +56,6 @@ title = "悠猊记事簿"
   #   { snapchat = "https://snapchat.com/add/username" },
   #   { soundcloud = "https://soundcloud.com/username" },
   #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
-     { steam = "https://steamcommunity.com/id/Keiki_s_Golem"},
   #   { telegram = "https://t.me/username" },
   #   { threads = "https://threads.net/@username" },
   #   { tiktok = "https://tiktok.com/@username" },
