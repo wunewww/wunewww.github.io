@@ -8,7 +8,7 @@ title = "Uni's Notitia"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
-  dateFormat = "30/05/2000"
+  dateFormat = "2 Jan 2006"
 
   # mainSections = ["section1", "section2"]
   # description = "My awesome website"
