@@ -1,6 +1,6 @@
 +++
 date = '2025-06-09T18:41:27+08:00'
-draft = true
+draft = false
 title = '变成社畜以后，重新思考自己的价值观'
 categories = ["日常"]
 tags = ["日常", "碎碎念", "价值观"]
