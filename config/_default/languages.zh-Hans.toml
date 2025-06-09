@@ -16,7 +16,7 @@ title = "悠猊记事簿"
 [params.author]
   name = "粘土人"
   image = "img/avatar.jpg"
-  headline = "稳重，安宁，好学"
+  headline = "这破日子过不了一天了！"
   bio = "热爱一切新知识的法学生。"
   links = [
     { email = "mailto:uniu_admin@icloud.com" },
