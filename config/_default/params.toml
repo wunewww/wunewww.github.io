@@ -11,7 +11,7 @@ autoSwitchAppearance = true
 
 defaultThemeColor = "#FFFFFF"
 
-enableSearch = false
+enableSearch = true
 enableCodeCopy = false
 enableImageLazyLoading = true
 enableImageWebp = true
@@ -21,7 +21,7 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  # logo = "img/avatar.jpg"
+  # logo = "img/favicon.jpg"
   # logoDark = "img/dark-logo.jpg"
   showTitle = true
 
