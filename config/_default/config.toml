@@ -3,7 +3,7 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 theme = "congo"
 
-baseURL = "https://www.uniu.net.cn/"
+baseURL = "https://wunewww.github.io/"
 defaultContentLanguage = "zh-Hans"
 
 enableRobotsTXT = true
