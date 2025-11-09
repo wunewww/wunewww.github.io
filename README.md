@@ -1,5 +1,5 @@
-# SITE-UNIU
+# wunewww.github.io
 
-This is wunewww's personal site, www.uniu.net.cn.
+This is wunewww's personal site, also CNAME for www.uniu.net.cn.
 
 Welcome!
