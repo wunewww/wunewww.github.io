@@ -19,9 +19,9 @@ title = "Uni's Notitia"
   headline = "Be Steady, Patient, and Studious."
   bio = "Who loves everything novel."
   links = [
-    { email = "mailto:uniu_admin@icloud.com" },
-    { steam = "https://steamcommunity.com/id/Keiki_s_Golem"},
-    { littleredbook = "https://www.xiaohongshu.com/user/profile/5fe2dd3e000000000100bd30?xsec_token=YBZMZ3iJxO31YmCYxMaK6DqoYDxX6i7387A0K8XwMRSgM%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=5fe2dd3e000000000100bd30&apptime=1746367579&share_id=016659d372f049d5807e2057598c5f8d&share_channel=copy_link" },
+  #  { email = "mailto:uniu_admin@icloud.com" },
+  #  { steam = "https://steamcommunity.com/id/Keiki_s_Golem"},
+  #  { littleredbook = "https://www.xiaohongshu.com/user/profile/5fe2dd3e000000000100bd30?xsec_token=YBZMZ3iJxO31YmCYxMaK6DqoYDxX6i7387A0K8XwMRSgM%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=5fe2dd3e000000000100bd30&apptime=1746367579&share_id=016659d372f049d5807e2057598c5f8d&share_channel=copy_link" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -33,7 +33,7 @@ title = "Uni's Notitia"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-    { github = "https://github.com/wunewww" },
+  #  { github = "https://github.com/wunewww" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
