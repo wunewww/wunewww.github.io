@@ -9,8 +9,8 @@ A **Hugo-powered static site** combining personal interests in technology and la
 ## Technology Stack  
 | Component               | Details                                  |
 |-------------------------|------------------------------------------|
-| Static Site Generator   | Hugo (extended version)                  |
-| Theme                   | [Congo](https://github.com/jpanther/congo) (Hugo theme) |
+| Static Site Generator   | [Hugo](https://github.com/gohugoio/hugo)                  |
+| Theme                   | [Congo](https://github.com/jpanther/congo) |
 | Auxiliary Tools         | Python, `uv` (dependency manager), `vale` |
 
 
