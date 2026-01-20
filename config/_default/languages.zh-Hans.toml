@@ -15,7 +15,7 @@ title = "悠猊记事簿"
 
 [params.author]
   name = "粘土人"
-  image = "img/avatar.jpg"
+  image = "img/avatar.webp"
   headline = "这破日子过不了一天了！"
   bio = "热爱一切新知识的法学生。"
   links = [
