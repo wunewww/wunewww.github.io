@@ -16,8 +16,8 @@ title = "Uni's Notitia"
 [params.author]
   name = "WUNIU"
   image = "img/avatar.webp"
-  headline = "Be Steady, Patient, and Studious."
-  bio = "Who loves everything novel."
+  headline = "I'm done with it!"
+  bio = "A law major doing everything except law."
   links = [
     { email = "mailto:uniu_admin@icloud.com" },
   #  { steam = "https://steamcommunity.com/id/Keiki_s_Golem"},
