@@ -5,9 +5,9 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
-colorScheme = "Avocado"
+colorScheme = "catppuccin-latte"
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 
 defaultThemeColor = "#FFFFFF"
 

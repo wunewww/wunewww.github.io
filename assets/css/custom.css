@@ -1,12 +1,12 @@
 .footer-icp {
   line-height: 1.5rem;
   text-align: left;
-  color: #999; /* 浅灰色 */
+  color: rgba(var(--color-neutral-300),var(--tw-text-opacity,1)); /* 浅灰色 */
   font-size: .75rem;
 }
 
 .footer-icp a {
-  color: chocolate;/* 稍亮的颜色 */
+  color: rgba(var(--color-secondary-500),var(--tw-text-opacity,1));
 }
 
 #cc-license {
@@ -17,7 +17,7 @@
 
 #cc-license a {
   display: inline-block;
-  color:chocolate;
+  color: rgba(var(--color-secondary-500),var(--tw-text-opacity,1));
 }
 
 #cc-license img{

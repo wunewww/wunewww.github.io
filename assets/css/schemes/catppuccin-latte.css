@@ -1,0 +1,85 @@
+/* Catppuccin → Congo mapping */
+:root {
+  /* Neutral / Gray (background & text) */
+  --color-neutral: 239, 241, 245;        /* Base */
+  --color-neutral-50: 239, 241, 245;     /* Base */
+  --color-neutral-100: 230, 233, 239;    /* Mantle */
+  --color-neutral-200: 220, 224, 232;    /* Crust */
+  --color-neutral-300: 204, 208, 218;    /* Surface 0 */
+  --color-neutral-400: 188, 192, 204;    /* Surface 1 */
+  --color-neutral-500: 172, 176, 190;    /* Surface 2 */
+  --color-neutral-600: 156, 160, 176;    /* Overlay 0 */
+  --color-neutral-700: 140, 143, 161;    /* Overlay 1 */
+  --color-neutral-800: 124, 127, 147;    /* Overlay 2 */
+  --color-neutral-900: 108, 111, 133;    /* Subtext 0 */
+  --color-neutral-950: 76, 79, 105;      /* Text */
+
+  /* Primary / Violet (main UI color) */
+  --color-primary-50: 239, 241, 245;     /* Base (tint) */
+  --color-primary-100: 204, 208, 218;    /* Lavender light */
+  --color-primary-200: 188, 192, 204;    /* Lavender */
+  --color-primary-300: 156, 160, 176;
+  --color-primary-400: 114, 135, 253;    /* Lavender */
+  --color-primary-500: 136, 57, 239;     /* Mauve */
+  --color-primary-600: 109, 40, 217;     /* Mauve dark */
+  --color-primary-700: 91, 33, 182;
+  --color-primary-800: 76, 29, 149;
+  --color-primary-900: 46, 16, 101;
+  --color-primary-950: 46, 16, 101;
+
+  /* Secondary / Accent (high saturation warm) */
+  --color-secondary-50: 253, 244, 255;   /* very light pink */
+  --color-secondary-100: 234, 118, 203;  /* Pink */
+  --color-secondary-200: 221, 120, 120;  /* Flamingo */
+  --color-secondary-300: 220, 138, 120;  /* Rosewater */
+  --color-secondary-400: 230, 69, 83;    /* Maroon */
+  --color-secondary-500: 210, 15, 57;    /* Red */
+  --color-secondary-600: 192, 38, 211;
+  --color-secondary-700: 162, 28, 175;
+  --color-secondary-800: 134, 25, 143;
+  --color-secondary-900: 112, 26, 117;
+  --color-secondary-950: 74, 4, 78;
+} 
+
+/* Catppuccin Mocha → Congo mapping (dark mode, inverted grayscale) */
+html.dark {
+  /* Neutral / Gray (background & text) — inverted */
+  --color-neutral: 205, 214, 244;           /* Base (保持不变) */
+  --color-neutral-50: 205, 214, 244;     /* Text */
+  --color-neutral-100: 166, 173, 200;    /* Subtext 0 */
+  --color-neutral-200: 147, 153, 178;    /* Overlay 2 */
+  --color-neutral-300: 127, 132, 156;    /* Overlay 1 */
+  --color-neutral-400: 108, 112, 134;    /* Overlay 0 */
+  --color-neutral-500: 88, 91, 112;      /* Surface 2 */
+  --color-neutral-600: 69, 71, 90;       /* Surface 1 */
+  --color-neutral-700: 49, 50, 68;       /* Surface 0 */
+  --color-neutral-800: 30, 30, 46;       /* Base */
+  --color-neutral-900: 24, 24, 37;       /* Mantle */
+  --color-neutral-950: 17, 17, 27;       /* Crust */
+
+  /* Primary / Violet — grayscale inverted, chroma preserved */
+  --color-primary-50: 205, 214, 244;     /* Text */
+  --color-primary-100: 166, 173, 200;    /* Subtext 0 */
+  --color-primary-200: 147, 153, 178;    /* Overlay 2 */
+  --color-primary-300: 127, 132, 156;    /* Overlay 1 */
+  --color-primary-400: 180, 190, 254;    /* Lavender */
+  --color-primary-500: 203, 166, 247;    /* Mauve */
+  --color-primary-600: 180, 190, 254;    /* Lavender */
+  --color-primary-700: 108, 112, 134;    /* Overlay 0 */
+  --color-primary-800: 88, 91, 112;      /* Surface 2 */
+  --color-primary-900: 49, 50, 68;       /* Surface 0 */
+  --color-primary-950: 30, 30, 46;       /* Base */
+
+  /* Secondary / Accent — unchanged */
+  --color-secondary-50: 245, 224, 220;   /* Rosewater */
+  --color-secondary-100: 242, 205, 205;  /* Flamingo */
+  --color-secondary-200: 245, 194, 231;  /* Pink */
+  --color-secondary-300: 235, 160, 172;  /* Maroon */
+  --color-secondary-400: 243, 139, 168;  /* Red */
+  --color-secondary-500: 250, 179, 135;  /* Peach */
+  --color-secondary-600: 249, 226, 175;  /* Yellow */
+  --color-secondary-700: 166, 227, 161;  /* Green */
+  --color-secondary-800: 148, 226, 213;  /* Teal */
+  --color-secondary-900: 137, 220, 235;  /* Sky */
+  --color-secondary-950: 116, 199, 236;  /* Sapphire */
+}
