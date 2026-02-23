@@ -4,4 +4,7 @@ version = "0.1.0"
 description = "This is wunewww's personal site, also CNAME for [www.uniu.net.cn](www.uniu.net.cn)."
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "hugo==0.152.0",
+    "vale>=3.13.0.0",
+]
