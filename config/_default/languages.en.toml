@@ -1,8 +1,8 @@
-languageCode = "en"
-languageName = "English"
-languageDirection = "ltr"
+locale = "en"
+label = "English"
+direction = "ltr"
 weight = 1
-copyright = '<p id="cc-license" xmlns:cc="http://creativecommons.org/ns#">This work © 2025 by <span property="cc:attributionName">WUNIU</span> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">CC BY-SA 4.0<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>'
+copyright = '<p id="cc-license" xmlns:cc="http://creativecommons.org/ns#">This work © 2026 by <span property="cc:attributionName">WUNIU</span> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">CC BY-SA 4.0<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>'
 
 title = "Uni's Notitia"
 # copyright = "Copy, _right?_ :thinking_face:"
@@ -15,20 +15,20 @@ title = "Uni's Notitia"
 
 [params.author]
   name = "WUNIU"
-  image = "img/avatar.jpg"
-  headline = "Be Steady, Patient, and Studious."
-  bio = "Who loves everything novel."
+  image = "img/avatar.webp"
+  headline = "I'm done with it!"
+  bio = "A law major doing everything except law."
   links = [
     { email = "mailto:uniu_admin@icloud.com" },
-    { steam = "https://steamcommunity.com/id/Keiki_s_Golem"},
-    { littleredbook = "https://www.xiaohongshu.com/user/profile/5fe2dd3e000000000100bd30?xsec_token=YBZMZ3iJxO31YmCYxMaK6DqoYDxX6i7387A0K8XwMRSgM%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=5fe2dd3e000000000100bd30&apptime=1746367579&share_id=016659d372f049d5807e2057598c5f8d&share_channel=copy_link" },
+  #  { steam = "https://steamcommunity.com/id/Keiki_s_Golem"},
+  #  { littleredbook = "https://www.xiaohongshu.com/user/profile/5fe2dd3e000000000100bd30?xsec_token=YBZMZ3iJxO31YmCYxMaK6DqoYDxX6i7387A0K8XwMRSgM%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=5fe2dd3e000000000100bd30&apptime=1746367579&share_id=016659d372f049d5807e2057598c5f8d&share_channel=copy_link" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
   #   { codepen = "https://codepen.io/username" },
   #   { dev = "https://dev.to/username" },
-  #   { discord = "https://discord.gg/invitecode" },
+     { discord = "https://discord.gg/Aj4XKEF2" },
   #   { dribbble = "https://dribbble.com/username" },
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
@@ -50,7 +50,7 @@ title = "Uni's Notitia"
   #   { orcid = "https://orcid.org/userid" },
   #   { patreon = "https://www.patreon.com/username" },
   #   { pinterest = "https://pinterest.com/username" },
-  #   { reddit = "https://reddit.com/user/username" },
+     { reddit = "https://www.reddit.com/user/wunewww/" },
   #   { researchgate = "https://www.researchgate.net/profile/username" },
   #   { slack = "https://workspace.url/team/userid" },
   #   { snapchat = "https://snapchat.com/add/username" },

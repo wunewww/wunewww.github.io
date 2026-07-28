@@ -1,12 +1,12 @@
 .footer-icp {
   line-height: 1.5rem;
   text-align: left;
-  color: #999; /* 浅灰色 */
+  color: rgba(var(--color-neutral-300),var(--tw-text-opacity,1)); /* 浅灰色 */
   font-size: .75rem;
 }
 
 .footer-icp a {
-  color: chocolate;/* 稍亮的颜色 */
+  color: rgba(var(--color-secondary-500),var(--tw-text-opacity,1));
 }
 
 #cc-license {
@@ -17,7 +17,7 @@
 
 #cc-license a {
   display: inline-block;
-  color:chocolate;
+  color: rgba(var(--color-secondary-500),var(--tw-text-opacity,1));
 }
 
 #cc-license img{
@@ -25,4 +25,85 @@
   height: 1em;
   margin-left: 1px;
   vertical-align: text-bottom;
+}
+
+/* 默认字体 */
+html,
+body {
+  font-family: "Noto Sans SC", "Noto Sans",
+               system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+
+/* 正文字体 */
+.prose p,
+.prose blockquote {
+  font-family: "Noto Serif SC", "Noto Serif", "Times New Roman", Times,
+               "Source Han Serif SC", "Songti SC",
+               "SimSun", "宋体",
+               Georgia, "PT Serif",
+               serif;
+}
+
+.ai-disclaimer-badge {
+  display: inline-block;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  background-color: rgba(var(--color-primary-200), 0.1);
+  color: rgb(var(--color-secondary-300));
+  border: 1px solid rgba(var(--color-primary-300), 0.3);
+  text-transform: none;
+}
+
+/* ── Tooltip Wrapper ── */
+.ctip {
+  position: relative;
+  display: inline-block;       /* 修复：inline → inline-block */
+  vertical-align: baseline;
+}
+
+.ctip-label {
+  color: rgb(var(--color-secondary-200));
+  border-bottom: 1.5px dashed rgb(var(--color-primary-600));
+  cursor: help;
+  padding-bottom: 1px;
+}
+
+/* ── Popup Box ── */
+.ctip-popup {
+  display: none;
+  position: absolute;
+  bottom: 140%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgb(var(--color-primary-50));
+  color: rgb(var(--color-neutral-900));
+  border: 1.5px solid rgb(var(--color-primary-600));
+  border-radius: 10px;
+  padding: 6px 14px;
+  white-space: normal;
+  width: max-content;         /* 短文本自动收缩，不留多余空白 */
+  max-width: 280px;           /* 超过此宽度开始换行 */
+  font-size: 0.82em;
+  font-style: italic;
+  line-height: 1.5;
+  z-index: 9999;
+  pointer-events: none;
+  box-shadow: 0 4px 14px rgba(var(--color-primary-200), 0.18);
+}
+
+.ctip-popup::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: rgb(var(--color-primary-500));
+}
+
+.ctip:hover .ctip-popup {
+  display: block;
 }

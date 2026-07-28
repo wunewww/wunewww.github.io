@@ -3,7 +3,7 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 theme = "congo"
 
-baseURL = "https://uniu.net.cn/"
+baseURL = "https://www.uniu.net.cn/"
 defaultContentLanguage = "zh-Hans"
 
 enableRobotsTXT = true
@@ -16,3 +16,7 @@ hasCJKLanguage = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
