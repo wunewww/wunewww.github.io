@@ -1,6 +1,6 @@
-languageCode = "en"
-languageName = "English"
-languageDirection = "ltr"
+locale = "en"
+label = "English"
+direction = "ltr"
 weight = 1
 copyright = '<p id="cc-license" xmlns:cc="http://creativecommons.org/ns#">This work © 2026 by <span property="cc:attributionName">WUNIU</span> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">CC BY-SA 4.0<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>'
 

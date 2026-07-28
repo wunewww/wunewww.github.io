@@ -1,6 +1,5 @@
 +++
 date = '2025-01-29T23:52:32+08:00'
-languageCode = 'zh-cn'
 draft = false
 title = '折腾Windows睡眠功能实录'
 categories = ["技术"]
